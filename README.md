@@ -1,5 +1,5 @@
+![Banner_1](https://user-images.githubusercontent.com/80626529/145803429-39fbb3a0-8e97-4436-a1a6-f8b94cac30fc.gif)
 
-![Linkedin Banner](https://user-images.githubusercontent.com/80626529/145802306-086c9981-a7b6-425c-a8e3-e9f440890233.gif)
 <!--
 **SumitKumar-2000/SumitKumar-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
