@@ -52,13 +52,13 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en&layout=compact" alt="sumitkumar-2000" /></p>
-
 <br>
 <h1 align="left">Connect with me -</h1>
 
 [<img src="https://www.freeiconspng.com/uploads/email-icon--circle-iconset--martz90-8.png" alt="linkedin-logo" width="50px">](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumitkumarrajput2000@gmail.com) 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumit-rajput-861b37188/" target="blank"><img align="left" src="https://camo.githubusercontent.com/abf60c33b21feee2a3f046782efaaafb2eebf16f30cede1cafa0df46e9049265/68747470733a2f2f696d616765302e666c617469636f6e2e636f6d2f69636f6e732f706e672f3132382f3137342f3137343835372e706e67" alt="https://www.linkedin.com/in/sumit-rajput-861b37188/" height="40" width="40" /></a>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en&layout=compact" alt="sumitkumar-2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
 
