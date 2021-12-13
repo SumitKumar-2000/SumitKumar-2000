@@ -2,7 +2,7 @@
 
 <p>&nbsp;<img align="right="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
 
-<h3 align="left">Passionate for Web Development and Machine Learning Admirer <h3
+<h3 align="left">Passionate for Web Development and Machine Learning Admirer <h3>
 
 - 🌱 I’m currently learning **React, Hadoop Map-Reduce**
 
