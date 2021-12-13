@@ -1,4 +1,4 @@
-![White with Blue Buildings Silhouette Real Estate Professional General Linkedin Banner (3)](https://user-images.githubusercontent.com/80626529/145798877-207614c6-8c73-40e4-b5aa-2d06faf59b51.gif)
+![Banner](https://user-images.githubusercontent.com/80626529/145800420-b7136bf6-8473-427e-bd74-2c478af5421d.gif)
 
 <!--
 **SumitKumar-2000/SumitKumar-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
