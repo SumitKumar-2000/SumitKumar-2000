@@ -1,7 +1,7 @@
 ![Bannerr](https://user-images.githubusercontent.com/80626529/145843560-502ca4c4-bb8a-414f-9051-da936e8039cd.gif)
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
-<h3 align="left">Passionate for Web Development and Machine Learning Admirer <h3>
+<h1 align="left">Passionate for Web Development and Machine Learning Admirer <h1>
 
 - 🌱 I’m currently learning **React, Hadoop Map-Reduce**
 
