@@ -1,4 +1,4 @@
-![Bannerr](https://user-images.githubusercontent.com/80626529/145843560-502ca4c4-bb8a-414f-9051-da936e8039cd.gif)
+![Banner_1](https://user-images.githubusercontent.com/80626529/145869868-662d276f-acc1-4fe6-a832-2253e128756e.gif)
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
 <h4 align="left">Passionate for Web Development and Machine Learning Admirer <h4>
@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **sumitkumarrajput2000@gmail.com**
 
-
-
+<br>
 <p align="left"> <h1>Skills & Tools</h1>
 
 <h2 align="left">Programming Languages -</h2>
