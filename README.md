@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, Hadoop Map-Reduce** 
 - 🔭 I’m currently working on **React Projects**
-- 💬 Ask me about **C++ | DS & Algo | Frontend Development**
+- 💬 Ask me about **C++ | DS & Algo | Full-Stack Development**
 - 📫 Ping me at **sumitkumarrajput2000@gmail.com**
-
+- TextDesk reactWeb App - https://sumitkumar-2000.github.io/reactWebApp-TextDesk/
 <br>
 <p align="left"> <h1>Skills & Tools</h1>
 
