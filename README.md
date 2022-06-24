@@ -56,7 +56,6 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/en/_static/logo.png" alt="Qgis" width="40" height="40"/> </a> 
-<a href="https://spline.design/" target="_blank" rel="noreferrer"> <img src="https://spline.design/_next/static/chunks/images/spline_logo-b184509dba86576260f42df290d0b5ea.png" alt="Qgis" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 <br>
