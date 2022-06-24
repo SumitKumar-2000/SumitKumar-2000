@@ -2,7 +2,9 @@
 
 <h1 align="left">Welcome 👋</h1>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
- 
+
+<h1 align="center">A Passionate Full Stack Web Developer from India.</h1>
+
 - Open to *Collaborations*
 - Currently learning  **NextJS**
 - Ask me about **DsAlgo | MERN Stack Development**
