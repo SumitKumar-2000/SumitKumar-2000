@@ -5,8 +5,8 @@
  
 - I’m currently learning on **NextJS **
 - Ask me about **DsAlgo | MERN Stack Development**
-- Reach me @ sumitkumarrajput2000@gmail.com
 - Open to *Collaborations*
+- Reach me @ sumitkumarrajput2000@gmail.com
 
 <br>
 <p align="left"> <h1>Skills & Tools</h1>
