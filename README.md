@@ -9,7 +9,7 @@
 - How to Reach me - sumitkumarrajput2000@gmail.com
 
 <br>
-<p align="left"> <h1>Skills & Tools</h1>
+<p align="left"> <h1>Tech Stack</h1>
 
 <h3 align="left">Programming Languages</h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
