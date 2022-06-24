@@ -4,7 +4,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
  
 - I’m currently learning on **NextJS **
-- Ask me about ** C++ | DS-Algo | MERN Stack Development **
+- Ask me about **C++ | DS-Algo | MERN Stack Development**
 
 
 <br>
