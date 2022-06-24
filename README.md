@@ -1,9 +1,9 @@
 ![dip](https://user-images.githubusercontent.com/80626529/145880732-1b4c3e15-7e27-4d88-8ca6-24e5b6264dad.gif)
 
-<h1 align="left">Welcome 👋</h1>
+<h1 align="left">A Passionate Full Stack Web Developer</h1>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
 
-<h1 align="center">A Passionate Full Stack Web Developer from India.</h1>
+<h1 align="center">A Passionate Full Stack Web Developer</h1>
 
 - Open to *Collaborations*
 - Currently learning  **NextJS**
