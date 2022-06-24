@@ -5,7 +5,7 @@
  
 - I’m currently learning on **NextJS **
 - Ask me about **C++ | DS-Algo | MERN Stack Development**
-
+- Reach me @ sumitkumarrajput2000@gmail.com
 
 <br>
 <p align="left"> <h1>Skills & Tools</h1>
