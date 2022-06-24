@@ -2,9 +2,6 @@
 
 <h1 align="left">A Passionate Full Stack Web Developer</h1>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000333&locale=en" alt="sumitkumar-2000" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000333&locale=en" alt="sumitkumar-2000" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=000333&locale=en" alt="sumitkumar-2000" /></p>
 
 - Open to *Collaborations*
 - Currently learning  **NextJS**
