@@ -3,10 +3,10 @@
 <h1 align="left">Welcome 👋</h1>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dark&locale=en" alt="sumitkumar-2000" /></p>
  
-- I’m currently learning on **NextJS **
-- Ask me about **DsAlgo | MERN Stack Development**
 - Open to *Collaborations*
-- Reach me @ sumitkumarrajput2000@gmail.com
+- Currently learning  **NextJS**
+- Ask me about **DsAlgo | MERN Stack Development**
+- How to Reach me - sumitkumarrajput2000@gmail.com
 
 <br>
 <p align="left"> <h1>Skills & Tools</h1>
