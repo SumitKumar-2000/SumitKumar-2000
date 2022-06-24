@@ -1,14 +1,17 @@
+---
 ![dip](https://user-images.githubusercontent.com/80626529/145880732-1b4c3e15-7e27-4d88-8ca6-24e5b6264dad.gif)
 
 <h1 align="left">A Passionate Full Stack Web Developer</h1>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitkumar-2000&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="sumitkumar-2000" /></p>
 
+
 - Open to *Collaborations*
 - Currently learning  **NextJS**
 - Ask me about **DsAlgo | MERN Stack Development**
 - How to Reach me - sumitkumarrajput2000@gmail.com
-
 <br>
+
+
 <p align="left"> <h1>Tech Stack</h1>
 
 <h3 align="left">Programming Languages</h3>
@@ -57,13 +60,18 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.qgis.org/en/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/en/_static/logo.png" alt="Qgis" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
- 
- 
+</p> 
 <br>
+ 
+<div>
 <h1 align="left">Connect with me</h1>
 <a href="https://linkedin.com/in/www.linkedin.com/in/sumit-rajput-861b37188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sumit-rajput-861b37188/" height="30" width="40" /></a>
-</p> 
+</div> 
+
+---
+<div>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkumar-2000&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="sumitkumar-2000" />
+</div>
 
  
  
