@@ -30,6 +30,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
 </a> 
+</a> <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg](https://jwt.io/img/pic_logo.svg)" alt="JWT" width="40" height="40"/>
+</a>
 
 <h3 align="left">Backend as a Service<h3>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
