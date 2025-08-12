@@ -1,7 +1,7 @@
 ---
 ![dip](https://user-images.githubusercontent.com/80626529/145880732-1b4c3e15-7e27-4d88-8ca6-24e5b6264dad.gif)
 
-## About Me
+# About Me
 Full Stack Developer & Freelancer with 2.5+ years of experience delivering ERP systems, eCommerce platforms, and CRM solutions. I focus on building secure, scalable, and user-centric applications that transform complex workflows into seamless digital experiences.<br><br>Turning complex workflows into seamless digital solutions.
 
 
@@ -18,7 +18,7 @@ Full Stack Developer & Freelancer with 2.5+ years of experience delivering ERP s
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SumitKumar-2000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
-### Quote of the Day
+## Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
